@@ -1,0 +1,6 @@
+{
+  "name": "MDR 1225 TECH – Academia",
+  "description": "Smart college academic management system for staff, students, timetables, clash-free scheduling, and intelligent exam hall seating planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
